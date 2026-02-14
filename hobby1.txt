@@ -1,4 +1,5 @@
 1. Reading books
 2. Listening to music
 3.Playing cricket
-4.learning Git
+4.learning Git basics.
+5.Going for evening Walks
